@@ -1,6 +1,6 @@
 require "abematv/epg/version"
 
-module Abematv
+module AbemaTV
   module Epg
     # Your code goes here...
   end

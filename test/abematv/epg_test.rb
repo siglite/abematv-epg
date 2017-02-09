@@ -1,8 +1,8 @@
 require 'test_helper'
 
-class Abematv::EpgTest < Minitest::Test
+class AbemaTV::EpgTest < Minitest::Test
   def test_that_it_has_a_version_number
-    refute_nil ::Abematv::Epg::VERSION
+    refute_nil ::AbemaTV::Epg::VERSION
   end
 
   def test_it_does_something_useful
